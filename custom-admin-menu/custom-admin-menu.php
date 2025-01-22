@@ -7,7 +7,7 @@ Author:            Lyhtande
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Domain Path:       /languages
-Text Domain:       wordpress-custom-admin-menu-plugin
+Text Domain:       custom-admin-menu
 GitHub Plugin URI: https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
 GitHub Branch:     master
 */
