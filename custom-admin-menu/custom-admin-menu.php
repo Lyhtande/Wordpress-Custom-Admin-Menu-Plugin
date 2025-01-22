@@ -1,14 +1,19 @@
 <?php
 /**
  * Plugin Name: Custom Admin Menu Plugin
+ * Plugin URI: https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
  * Description: Enhances the admin menu with dynamic arrow colors and optimized submenu alignment.
  * Version: 1.1
  * Author: Lyhtande
  * Author URI: https://github.com/Lyhtande
- * Plugin URI: https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Domain Path: /languages
+ * Text Domain: custom-admin-menu
  * GitHub Plugin URI: https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
  * GitHub Branch: main
  */
+
 
 // Enqueue admin scripts and styles
 add_action('admin_enqueue_scripts', 'custom_admin_menu_scripts');
