@@ -8,7 +8,7 @@
  * Author URI: https://github.com/Lyhtande
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: Wordpress-Custom-Admin-Menu-Plugin
+ * Text Domain: custom-admin-menu
  * GitHub Plugin URI: https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
  * GitHub Branch: main
  */
