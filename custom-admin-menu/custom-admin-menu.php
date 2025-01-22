@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name:       Custom Admin Menu Enhancements
 Plugin URI:        https://github.com/Lyhtande/Wordpress-Custom-Admin-Menu-Plugin
